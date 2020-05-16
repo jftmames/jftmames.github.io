@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>DB&DS</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Inicio</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Curso de inicio a las Ciencias de los datos</h1>
+				<p>Lo más importante para iniciarse en la <em>Ciencia de los datos</em>. <a href="/about">Sobre el EAE</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:jftamames@campus.eae.es">email</a></li>
+        		<li><a href="https://github.com/jftmamaes">github.com/jftmames</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
